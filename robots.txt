@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tommibruce.github.io/sitemap.xml
